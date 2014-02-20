@@ -1,4 +1,4 @@
-var debounce = require('debounce');
+var debounce = require('matthewmueller-debounce');
 
 // Returns a function, that, when invoked, will only be triggered at most once
 // during a given window of time.
